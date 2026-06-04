@@ -6,5 +6,5 @@ namespace Projeto_Final_de_Semestre.NovaPasta;
 
 public enum Posicao
 {
-    ala,piv,armador
+    ala,pivo,armador
 }

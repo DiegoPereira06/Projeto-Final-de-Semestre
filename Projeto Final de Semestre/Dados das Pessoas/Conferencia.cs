@@ -4,6 +4,10 @@ using System.Text;
 
 namespace Projeto_Final_de_Semestre.NovaPasta;
 
-public class Arbitro
-{
-}
+
+
+   public enum Conferencia
+    {
+        leste,oeste
+    }
+
